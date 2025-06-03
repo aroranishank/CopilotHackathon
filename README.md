@@ -1,4 +1,4 @@
-# GitHub Copilot Hackathon
+# GitHub Copilot Hackathon 
 
 Demo project for running labs to evaluate Copilot viability
 
